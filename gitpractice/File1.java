@@ -1,4 +1,6 @@
 
 public class File1 {
-
+	private static void main (String Args[]) {
+		System.out.println("Red");
+	}
 }
